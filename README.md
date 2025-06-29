@@ -1,9 +1,10 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+
+  ![Image](https://github.com/user-attachments/assets/0410bf4c-77ae-4ee1-8132-5eb90b36fe10)
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>Creating An Azure Virtual Machine</h1>
+This is an easy way to create an Azure Virtual Machine.<br />
 
 
 
