@@ -25,9 +25,9 @@ This is an easy way to create an Azure Virtual Machine.<br />
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
+- Create a Resource Group 
+- Create Windows 10 Virtual Machine  
+- Create Linux (Ubuntu) Virtual Machine
 - Step 4
 
 <h2>Deployment and Configuration Steps</h2>
