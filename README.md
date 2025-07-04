@@ -32,11 +32,13 @@ This is an easy way to create an Azure Virtual Machine.<br />
 
 <h2>Deployment and Configuration Steps</h2>
 
+Create your resource group
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
+![Screenshot 2025-07-04 093316](https://github.com/user-attachments/assets/3111e48e-cd8f-4186-996b-646967f6320e)
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In Azure, you're going to click on Resource Groups, and then click Create in the top left-hand corner of the screen.  You will choose the subscription you have and then create a resource group name, I chose RG-Network-Activities. After choosing a name, you will choose which region you would like your resource group in. I chose to put my resource group in (US) West US 2, then click review + create at the bottom then click create again.      
 </p>
 <br />
 
