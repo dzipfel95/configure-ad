@@ -4,7 +4,7 @@
 </p>
 
 <h1>Creating An Azure Virtual Machine</h1>
-This is an easy way to create an Azure Virtual Machine.<br />
+This is an easy way to create Virtual Machines using Azure.<br />
 
 
 
