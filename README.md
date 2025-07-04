@@ -63,6 +63,9 @@ Go to Virtual Machines and click create, then select Virtual Machine. Select you
 
 </p>
 <p>
-To create a Linux virtual machine you're going to repeat all the same steps you did to make the Windows Virtual Machine, except under Image you're going to select Ubuntu Server.  
+To create a Linux virtual machine you're going to repeat all the same steps you did to make the Windows Virtual Machine, except under Image you're going to select Ubuntu Server.  Now you have both of your Virtual machines created.   
+
+  ![Screenshot 2025-07-04 102901](https://github.com/user-attachments/assets/e3b3aabb-2f0a-44e5-82a6-9faf96c1a00c)
+
 </p>
 <br />
