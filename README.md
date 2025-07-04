@@ -32,7 +32,7 @@ This is an easy way to create an Azure Virtual Machine.<br />
 
 <h2>Deployment and Configuration Steps</h2>
 
-Create your resource group
+<h2>Create A Rescource Group </h2>
 <p>
 
 ![Screenshot 2025-07-04 093316](https://github.com/user-attachments/assets/3111e48e-cd8f-4186-996b-646967f6320e)
