@@ -1,6 +1,7 @@
 <p align="center">
 
-  ![Image](https://github.com/user-attachments/assets/0410bf4c-77ae-4ee1-8132-5eb90b36fe10)
+  ![Screenshot 2025-06-29 073744](https://github.com/user-attachments/assets/779ba374-7c54-48d6-87b1-67eaa8d150dc)
+
 </p>
 
 <h1>Creating An Azure Virtual Machine</h1>
