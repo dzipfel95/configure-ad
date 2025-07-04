@@ -14,21 +14,19 @@ This is an easy way to create an Azure Virtual Machine.<br />
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+
 
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Configuration Steps</h2>
 
 - Create a Resource Group 
 - Create Windows 10 Virtual Machine  
 - Create Linux (Ubuntu) Virtual Machine
-- Login to Windows Virtual Machine
+
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -56,11 +54,15 @@ In Azure, you're going to click on Resource Groups, and then click Create in the
 Go to Virtual Machines and click create, then select Virtual Machine. Select your Subscription  and then choose your resource group, this will the the same resource group created in the first step.  Create your Virtual machine name, and then select the same Region you selected for the Resource Group.  If you scroll down to Image you will select Windows 10 Pro, then under Size you will select something with at least 2 vcpus. Next, under Administrator account select password and then choose a username and password, and then scroll down and click the licensing agreement at the bottom as shown in the second image. Now all you have to do is select Review+Create and then select create again.           
 </p>
 <br />
-
+<h2>Create Linux Virtual Machine </h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+  ![Screenshot 2025-07-04 102020](https://github.com/user-attachments/assets/0a5ac4bf-3a12-4f50-aa80-75f85832c13f)
+
+  
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To create a Linux virtual machine you're going to repeat all the same steps you did to make the Windows Virtual Machine, except under Image you're going to select Ubuntu Server.  
 </p>
 <br />
